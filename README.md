@@ -4,7 +4,10 @@ A custom shell created by developper, for developper.
 
 # Installation
 
-- Clone the repo
-- ./install.sh
+``` sh
+$ git clone https://github.com/CamranR/42sh.git
+$ cd 42sh
+$ ./install
+```
 
-<img src="https://media.giphy.com/media/LYuHpa1GORjkhFVYWj/giphy.gif" width="40" height="40" />
+![gif](./gif/install.gif)
