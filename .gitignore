@@ -1,0 +1,10 @@
+*.o
+*~
+#*#
+*.gcno
+*.gcna
+*.editorconfig
+.vscode
+mysh
+42sh
+norm
